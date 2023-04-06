@@ -35,3 +35,17 @@ This is the official code of MCT-Net: Multi-hierarchical cross transformer for h
  (1). Download the pretrained model zoo from ([Baidu Disk](https://pan.baidu.com/s/1OzHaWp9K4wyLr_fgXcCDzw), code: `MCT1`) and place them to `/MCT/checkpoints/`. 
  
  (2). python test.py
+
+## BibTeX
+```
+@article{wang2023mct,
+  title={MCT-Net: Multi-hierarchical cross transformer for hyperspectral and multispectral image fusion},
+  author={Wang, Xianghai and Wang, Xinying and Song, Ruoxi and Zhao, Xiaoyang and Zhao, Keyun},
+  journal={Knowledge-Based Systems},
+  volume={264},
+  pages={110362},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
