@@ -3,7 +3,6 @@
 This is the official code of MCT-Net: Multi-hierarchical cross transformer for hyperspectral and multispectral image fusion. Knowledge-Based Systems, 2023, 264: 110362.
 
 ## Network Architecture
-![ntire](/figure/CiT_Net.jpg)
 <div align=center> <img src="/figure/CiT_Net.jpg" width="80%" height="80%">
 
 ## 1. Create Envirement:
