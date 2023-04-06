@@ -4,7 +4,7 @@ This is the official code of MCT-Net: Multi-hierarchical cross transformer for h
 
 ## Network Architecture
 ![ntire](/figure/CiT_Net.jpg)
-<img src="/figure/CiT_Net.jpg" width="50%" height="50%">
+<img src="/figure/CiT_Net.jpg" width="80%" height="80%" align="center">
 
 ## 1. Create Envirement:
 - Python 3 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
