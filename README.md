@@ -1,4 +1,4 @@
-# MCT-NET:Multi-hierarchical cross transformer for hyperspectral and multispectral image fusion
+# MCT-NET: Multi-hierarchical cross transformer for hyperspectral and multispectral image fusion
 
 This is the official code of MCT-Net: Multi-hierarchical cross transformer for hyperspectral and multispectral image fusion. Knowledge-Based Systems, 2023, 264: 110362.
 
