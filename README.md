@@ -12,7 +12,7 @@ This is the official code of MCT-Net: Multi-hierarchical cross transformer for h
 
 ## 2. Data Preparation:
 
-- Download  Datasets([Baidu Disk](https://pan.baidu.com/s/19vNPVhGJD9_btrrUwZ1fAQ, code: `MCT1`)
+- Download  Datasets([Baidu Disk](https://pan.baidu.com/s/19vNPVhGJD9_btrrUwZ1fAQ), code: `MCT1`)
 
 - Place the Datasets to `/MCT-Net/data/`.
 
